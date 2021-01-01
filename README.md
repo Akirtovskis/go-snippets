@@ -3,6 +3,10 @@
 Doc below is just my attempt to document various learnings
 from my journey of exploring GO language.
 
+**_Folder evenOdd includes a program goes over numbers 1-10 and prints out whether number is even or odd_**
+To run the program switch to the evenOdd folder and run the command below in your terminal :
+`go run main.go`
+
 As GO is strictly typed language before declaring variable
 we always have to know the type.
 
