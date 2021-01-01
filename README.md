@@ -1,16 +1,22 @@
 # GO snippets
 
+**_Structure of the repo_**
+
+- Readme file with images and snippets
+- evenOdd app in separate directory for you to play around
+
 Doc below is just my attempt to document various learnings
 from my journey of exploring GO language.
 
 **_Folder evenOdd includes a program goes over numbers 1-10 and prints out whether number is even or odd_**
+\
 To run the program switch to the evenOdd folder and run the command below in your terminal :
 `go run main.go`
 
+## Variable declaring convetion
+
 As GO is strictly typed language before declaring variable
 we always have to know the type.
-
-## Variable declaring convetion
 
 Unlinke in JavaScript, in GO quite often you will see variables declared with just a single
 letter. In the first example I will use more familiar and explicit camelCase, but
